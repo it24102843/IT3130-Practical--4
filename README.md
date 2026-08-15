@@ -6,7 +6,7 @@ This repository contains the lab materials for IT3130 Lab 4: Version Controlling
 - `profile.css` — styles for the profile page.
 - `lab_answers.md` — template for written answers to the lab questions.
 
-Workflow performed by assistant:
+- Workflow performed:
 
 1. Created feature branch `feature/it24102843/profile-page`.
 2. Added lab files and pushed the branch to GitHub.
